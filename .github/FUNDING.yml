@@ -1,3 +1,16 @@
 # These are supported funding model platforms
+# GitHub Sponsors (up to 4 usernames or an organization)
+github: [octocat, surftocat]
 
-git clone "https://x:art_v2_x_550f18258703ba422a4d75179b8475b41f69924d@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-elninjo-github-app-b500e0c6968c4ca3.git" elninjo-github-app
+# Supported external platforms (1 per platform)
+patreon: octocat
+open_collective: octocat
+ko_fi: octocat
+tidelift: npm/octo-package
+polar: octocat
+buy_me_a_coffee: octocat
+thanks_dev: u/gh/octocat
+community_bridge: octo-project
+liberapay: octocat
+issuehunt: octocat
+
